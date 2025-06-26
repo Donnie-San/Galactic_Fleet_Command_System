@@ -1,0 +1,14 @@
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\bin\Debug\net9.0\Galactic Fleet Command System.exe
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\bin\Debug\net9.0\Galactic Fleet Command System.deps.json
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\bin\Debug\net9.0\Galactic Fleet Command System.runtimeconfig.json
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\bin\Debug\net9.0\Galactic Fleet Command System.dll
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\bin\Debug\net9.0\Galactic Fleet Command System.pdb
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.AssemblyInfoInputs.cache
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.AssemblyInfo.cs
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.csproj.CoreCompileInputs.cache
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.dll
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\refint\Galactic Fleet Command System.dll
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.pdb
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\Galactic Fleet Command System.genruntimeconfig.cache
+C:\Users\donni\Desktop\Galactic Fleet Command System\Galactic Fleet Command System\obj\Debug\net9.0\ref\Galactic Fleet Command System.dll
