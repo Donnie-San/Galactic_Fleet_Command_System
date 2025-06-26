@@ -1,0 +1,10 @@
+This includes:
+- Abstract
+- Auto-properties
+- Enums
+- Interface
+- Generics
+- Params
+- Mulithreading
+- Lock
+in C#
