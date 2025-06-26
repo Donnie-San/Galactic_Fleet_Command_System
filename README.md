@@ -1,10 +1,1 @@
-This includes:
-- Abstract
-- Auto-properties
-- Enums
-- Interface
-- Generics
-- Params
-- Mulithreading
-- Lock
-in C#
+Here is a small C# exercise! It’s a great warm-up that touches on several key features of the language: Abstract, Auto-properties, Enums, Interfaces, Generics, Params keyword, Mulithreading, and Locking
